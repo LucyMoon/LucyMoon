@@ -37,7 +37,7 @@
 
 <br/>  
 
-
+## Github Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucyMoon&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <br/>  
@@ -50,7 +50,7 @@
 
 <br/>  
 
-## Github Streak Stats
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LucyMoon&&style=flat-square" align="center" />
 </div>  

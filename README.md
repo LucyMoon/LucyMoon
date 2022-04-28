@@ -8,7 +8,7 @@
 
 
 <div align="center">
-   ## My Skill Set  
+  ## My Skill Set  
   <table><tr><td valign="top" width="100%">
 
   <div align="center">  
